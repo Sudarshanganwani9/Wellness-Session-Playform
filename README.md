@@ -50,7 +50,7 @@ Wellness-Session-Playform-main/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/wellness-session-playform.git
+   git clone https://github.com/Sudarshanganwani9/Wellness-Session-Playform
    cd wellness-session-playform
 
 ## Install dependencies 
